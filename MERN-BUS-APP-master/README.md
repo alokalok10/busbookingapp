@@ -11,19 +11,8 @@ The Bus ticket application is composed of the following Features:
 
 * Uses Token based system, so only registered users can access the website  passport js.
 
-* Password hashing using passport js.
 
-* Has a profile page, which will display all information about the signed in user.
 
-* List of cities for users to choose from (starting city & destination city). 
-
-* Getting list of bus's of different companies with various details.
-
-* Seat selection page has a very user friendly environment, which also generates dynamic forms for storing data's of passengers.
-
-* Has a Confirmation page, which gets a debit card data using react-credit-cards. This version of the application does not include handling the payment process. 
-
-* Final page has a ticket displaying component, it displays all passenger data and also generates a random number as a transaction ID.
 
 
 
@@ -70,19 +59,19 @@ Follow the following steps to get development environment running.
 
 * Clone _'MERN-BUS-APP.git'_ repository from GitHub
 
-  ```bash
+ 
   git clone  https://github.com/alokalok10/busbookingapp.git
-  ```
+ 
 
    _OR USING SSH_
 
-  ```bash
+ 
   git clone git@https://github.com/alokalok10/busbookingapp.git
   ```
 
 * Install node modules
 
-   ```bash
+  
    
    cd frontend
    npm install react
@@ -105,6 +94,6 @@ Follow the following steps to get development environment running.
 
 ---
 
-And Am also working on backend and did comp to update soon to full mern 
+And Am also working on backend and did complete to update soon to full mern ....
 
 
