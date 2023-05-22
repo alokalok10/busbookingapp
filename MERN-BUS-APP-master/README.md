@@ -40,16 +40,7 @@ Signing In Page:
 
 ![](documentationResources/signin.png)
 
-Bus Selection Page:
 
-![](documentationResources/bus-page.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatSelection.gif)
-
-Payment & Confirmation Page:
-![](documentationResources/payment.gif)
 ---
 
 
@@ -113,5 +104,7 @@ Follow the following steps to get development environment running.
 
 
 ---
+
+And Am also working on backend and did comp to update soon to full mern 
 
 
